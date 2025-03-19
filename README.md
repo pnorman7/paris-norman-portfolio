@@ -3,24 +3,24 @@
 ## Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
-### About me
+# About me
 
-# Professional and Academic Focus
+## Professional and Academic Focus
 
 Hi there! I'm a Master of Public Management student at Carnegie Mellon University in my final semester, focusing on AI and technology management. After spending nearly a decade working with CRM systems for a multinational chemical company, my primary interest has turned to finding ways to use AI responsibly to help workers, businesses, and society thrive. I believe there is an urgency to steer AI in a direction that delivers equitable outcomes. 
 
-# Personal
+## Personal
 
 Beyond my professional interests, I'm a proud parent of two young boys. I am motivated to work toward a future for them where technology serves humanity's best interests and creates a better world for the next generation.
 
-### What I Hope to Learn
+# What I Hope to Learn
 
 Over the past five years, I've been managing our global B2B CRM system where we've collected millions of valuable data points. I want to learn more effective strategies for presenting these insights to our diverse stakeholders—from frontline teams and customers to our board of directors—in ways that resonate with each unique audience.
 
 My goal is to transform our extensive data collection into meaningful, actionable insights that deliver value across the organization. After graduation, I plan to continue in my role while thoughtfully integrating AI applications into our work environment, helping us grow while keeping people at the center of what we do.
 
 
-### Portfolio
+# Portfolio
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
