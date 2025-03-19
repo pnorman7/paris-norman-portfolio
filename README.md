@@ -7,7 +7,7 @@ This is my public portfolio for Telling Stories with Data at CMU!  Here's where 
 
 # Professional and Academic Focus
 
-Hi there! I'm a Master of Public Management student at Carnegie Mellon University in my final semester, focusing on AI and technology management. After spending nearly a decade working with CRM systems for a multinational chemical company, I've developed a passion for finding ways to use AI responsibly to help workers, businesses, and society thrive.
+Hi there! I'm a Master of Public Management student at Carnegie Mellon University in my final semester, focusing on AI and technology management. After spending nearly a decade working with CRM systems for a multinational chemical company, my primary interest has turned to finding ways to use AI responsibly to help workers, businesses, and society thrive. I believe there is an urgency to steer AI in a direction that delivers equitable outcomes. 
 
 # Personal
 
