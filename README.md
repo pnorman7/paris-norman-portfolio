@@ -1,16 +1,9 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# TSWD-portfolio-templates
-These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
-It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
-
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
-
 ## Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
-## About me
+### About me
 
 # Professional and Academic Focus
 
@@ -20,14 +13,14 @@ Hi there! I'm a Master of Public Management student at Carnegie Mellon Universit
 
 Beyond my professional interests, I'm a proud parent of two young boys. I am motivated to work toward a future for them where technology serves humanity's best interests and creates a better world for the next generation.
 
-## What I Hope to Learn
+### What I Hope to Learn
 
 Over the past five years, I've been managing our global B2B CRM system where we've collected millions of valuable data points. I want to learn more effective strategies for presenting these insights to our diverse stakeholders—from frontline teams and customers to our board of directors—in ways that resonate with each unique audience.
 
 My goal is to transform our extensive data collection into meaningful, actionable insights that deliver value across the organization. After graduation, I plan to continue in my role while thoughtfully integrating AI applications into our work environment, helping us grow while keeping people at the center of what we do.
 
 
-## Portfolio
+### Portfolio
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
