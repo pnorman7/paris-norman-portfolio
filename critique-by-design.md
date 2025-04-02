@@ -22,26 +22,45 @@ _Before you conduct your interviews, prepare a simple script.  Use this as a gui
 
 Questions to ask (modify these for your own interviews): 
 
-- Can you tell me what you think this is?
+- Do you understand immediately what this is showing?
 
-- Can you describe to me what this is telling you?
+- Do you prefer to see the nations color coded in the bars?
 
-- Is there anything you find surprising or confusing?
+- Are the X-axis labels legible or should they be slanted?
 
-- Who do you think is the intended audience for this?
+- Should I write the column total on each bar?
 
-- Is there anything you would change or do differently?
+- I have white space in the top right.  Should I write insights there?
+
+
 
 Results: 
 
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
+Feedback 1
+Supervisor at work, man in his 60’s
+•	The title font reminds me of Jurassic Park 
+•	Some of these plants have really long names.  Some get cutoff.  
+•	It looks like the US has a long way to catch up.
+•	I wonder why India and China are so strong in solar.
+•	I like the light to dark orange affect.  The last couple plants are red hot.  
 
+Feedback 2
+Wife, woman in her 30s, teacher
+•	I have to turn my head to read the names of the plants, and they’re faint.
+•	The flags are a nice touch
+•	Can you explain what is being measured? I can’t tell right away.  Is it the area size?
+•	Maybe group by East and West?  It looks like India and China are leading and US and Mexico are way behind.
 
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
+Classmates Feedback
+Two men and one woman in their 20’s.  
+•	Can you explain what is being measured, maybe in the subtitle?
+•	You should turn the bar graph sideways.  That way the names of the plants are oriented correctly, not vertically.
+•	Maybe group by East and West.
+•	I would like to know the country totals to really see who the leader is.
+•	The Y and X axis labels are grey and faint.  Hard to see at a glance.  
+•	You can remove “The” from the title.
+•	I like the orange gradient.  It gives a heat feeling.  
+
 
 Synthesis: 
 
