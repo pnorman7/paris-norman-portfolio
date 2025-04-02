@@ -93,14 +93,11 @@ _Include and describe your final solution here. It's also a good idea to summari
 ## References
 
 https://makeovermonday.co.uk
+
 https://medium.com/@hint_fm/design-and-redesign-4ab77206cf9
-[[_List any references you used here._
-](https://solarpower.guide/solar-energy-insights/infographics/largest-solar-plants.png)](https://solarpower.guide/solar-energy-insights/largest-solar-plants)
 
-
-
-
+https://solarpower.guide/solar-energy-insights/infographics/largest-solar-plants.png)](https://solarpower.guide/solar-energy-insights/largest-solar-plants
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I used Claude 3.7 to help troubleshoot and navigate Tableau.  If I got stuck, I could send Claude a screenshot of my Tableau screen and it could guide me where to click to make a simple change I could not figure out (ex. Change the axis text colors, get to the orange gradient, edit row name without editing the original data source).  
 
