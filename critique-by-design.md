@@ -73,6 +73,17 @@ _What patterns in the feedback emerge?  What did you learn from the feedback?  B
 
 ## Step five: build the solution
 
+Final graphic: ![image](https://github.com/user-attachments/assets/c15f1310-d84c-4b93-8219-11b3137c47c3)
+
+
+
+My final visualization integrated extensive feedback.  I selected the title "20 Largest Solar Power Plants Powering Our Future" to emphasize the positive global progress in solar energy. Upon peer recommendation, I included a clarifying subtitle, "By Measuring their enormous megawatt peak capacity," explicitly addressing previous confusion that viewers had interpreted "largest" as referencing physical area rather than production capacity.
+
+Transitioning to a horizontal bar chart resolved multiple design issues. The original vertical orientation led to problematic white space and vertical cutoff plant names. By shifting horizontally, plant names became  legible and the overall layout balanced. I was able to improve readability by shortening names by removing the repetitive "Solar Power Plant" added to the name of almost every site. This gave much more room on the axis and reduced redundancy and unnecessary length. Flag emojis were uniformly placed at the end of each plant name,  highlighting the national investment and world leaders in solar power generation.  Some critics asked to have a better understanding of "who is number one" and this is one way to quickly see which nation has the largest capacity, but also most plants.
+
+I  chose an orange-to-red gradient for the bars to correlate  with the solar theme and symbolizing the increasing power output of the plants. Sorting bars in descending order of megawatt capacity reinforced the narrative of significant growth in renewable energy. Darkened axis text significantly improved legibility, and adding  megawatt totals at the end of each bar enabled viewers to quickly interpret capacity without tracing bars visually across the chart.
+
+These adjustments greatly simplified the original visualization while retaining all critical information: plant names, nation, and megawatt capacities. By reducing visual noise and thoughtfully incorporating feedback, the final chart effectively communicates global progress in solar energy production.
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
 ## References
