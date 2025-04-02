@@ -9,12 +9,19 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 
 ## Step one: the visualization
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+Original graphic: https://solarpower.guide/solar-energy-insights/largest-solar-plants
+
+![image](https://github.com/user-attachments/assets/fab3e0e7-8cf6-4101-a448-09ffff8be604)
+
 
 ## Step two: the critique
 _Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
 
 ## Step three: Sketch a solution
+
+First Sketch: ![image](https://github.com/user-attachments/assets/283598ab-99fe-4fc6-aead-b0bc28a0a721)
+
+Second Draft: ![image](https://github.com/user-attachments/assets/f7c1915b-617b-4ddd-b96e-de3e76ac4bcb)
 
 ## Step four: Test the solution
 
@@ -31,8 +38,6 @@ Questions to ask (modify these for your own interviews):
 - Should I write the column total on each bar?
 
 - I have white space in the top right.  Should I write insights there?
-
-
 
 Results: 
 
