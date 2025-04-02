@@ -21,7 +21,7 @@ _Don't forget to complete the Google Form found on the assignment page.  You can
 
 First Sketch: ![image](https://github.com/user-attachments/assets/283598ab-99fe-4fc6-aead-b0bc28a0a721)
 
-Second Draft: ![image](https://github.com/user-attachments/assets/f7c1915b-617b-4ddd-b96e-de3e76ac4bcb)
+Second Draft: ![image](https://github.com/user-attachments/assets/4402c094-5b81-4964-89ff-30dc2f8e977b)
 
 ## Step four: Test the solution
 
