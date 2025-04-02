@@ -70,7 +70,10 @@ Two men and one woman in their 20’s.
 
 Synthesis: 
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+Multiple viewers were unclear about what “largest” meant in the chart. Several asked whether it referred to physical size rather than power output. This led to a consistent recommendation to clarify the metric being measured.
+There were concerns about text orientation and legibility. Viewers disliked turning their heads to read vertical labels, and many commented that long plant names were cut off or too faint. 
+Viewers were interested in the geopolitical story--which countries were leading and lagging in solar development. The flag icons were helpful, and there were repeated suggestions to group or highlight country data (e.g., East vs. West or country totals) to enhance insight into global trends.
+Aesthetic feedback, like the orange-to-red gradient, was well received and described as reinforcing the “heat” and solar theme.
 
 ## Step five: build the solution
 
@@ -88,7 +91,15 @@ These adjustments greatly simplified the original visualization while retaining 
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
 ## References
-_List any references you used here._
+
+https://makeovermonday.co.uk
+https://medium.com/@hint_fm/design-and-redesign-4ab77206cf9
+[[_List any references you used here._
+](https://solarpower.guide/solar-energy-insights/infographics/largest-solar-plants.png)](https://solarpower.guide/solar-energy-insights/largest-solar-plants)
+
+
+
+
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
