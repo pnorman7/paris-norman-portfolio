@@ -1,11 +1,6 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Title
-Text here...
-
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
-
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
+# What Are the Largest Solar Power Plants? I Can Show You With Some Fixing
 
 ## Step one: the visualization
 
@@ -15,13 +10,18 @@ Original graphic: https://solarpower.guide/solar-energy-insights/largest-solar-p
 
 
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+
+Google Form completed.  
 
 ## Step three: Sketch a solution
 
 First Sketch: ![image](https://github.com/user-attachments/assets/283598ab-99fe-4fc6-aead-b0bc28a0a721)
 
+In my first sketch I tried to group the power plants by nation. This was requested, but I ran into a problem quickly by running out of logical unique colors. For example India was green like their flag, but so was Mexico.  Red was already taken by China and Vietnam is also Red.  Egypt and UAE were both tan/gold. As you can see I had to reason away from trying to color code by flag.  
+
 Second Draft: ![image](https://github.com/user-attachments/assets/4402c094-5b81-4964-89ff-30dc2f8e977b)
+
+In my second draft I shifted to a gradient that conveyed solar warmth.  I had a vertical bar chart and included emoji flags at the tops of each bar to give an indication of the nation the plant belongs to.  I also changed the font to have an "industrial power plant" feeling.  As you can see the plant labels on x-axis are very long and get cutoff.  This was an improved version but not ready for prime time.  
 
 ## Step four: Test the solution
 
