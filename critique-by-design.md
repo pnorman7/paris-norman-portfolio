@@ -25,9 +25,7 @@ Second Draft: ![image](https://github.com/user-attachments/assets/4402c094-5b81-
 
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
-
-Questions to ask (modify these for your own interviews): 
+Questions to the critics:
 
 - Do you understand immediately what this is showing?
 
@@ -43,28 +41,31 @@ Results:
 
 Feedback 1
 Supervisor at work, man in his 60’s
-•	The title font reminds me of Jurassic Park 
-•	Some of these plants have really long names.  Some get cutoff.  
-•	It looks like the US has a long way to catch up.
-•	I wonder why India and China are so strong in solar.
-•	I like the light to dark orange affect.  The last couple plants are red hot.  
+
+- 	The title font reminds me of Jurassic Park 
+- 	Some of these plants have really long names.  Some get cutoff.  
+- 	It looks like the US has a long way to catch up.
+-  Iwonder why India and China are so strong in solar.
+-  like the light to dark orange affect.  The last couple plants are red hot.  
 
 Feedback 2
 Wife, woman in her 30s, teacher
-•	I have to turn my head to read the names of the plants, and they’re faint.
-•	The flags are a nice touch
-•	Can you explain what is being measured? I can’t tell right away.  Is it the area size?
-•	Maybe group by East and West?  It looks like India and China are leading and US and Mexico are way behind.
+
+-   I have to turn my head to read the names of the plants, and they’re faint.
+- 	The flags are a nice touch
+-   Can you explain what is being measured? I can’t tell right away.  Is it the area size?
+-   Maybe group by East and West?  It looks like India and China are leading and US and Mexico are way behind.
 
 Classmates Feedback
 Two men and one woman in their 20’s.  
-•	Can you explain what is being measured, maybe in the subtitle?
-•	You should turn the bar graph sideways.  That way the names of the plants are oriented correctly, not vertically.
-•	Maybe group by East and West.
-•	I would like to know the country totals to really see who the leader is.
-•	The Y and X axis labels are grey and faint.  Hard to see at a glance.  
-•	You can remove “The” from the title.
-•	I like the orange gradient.  It gives a heat feeling.  
+
+-  Can you explain what is being measured, maybe in the subtitle?
+-  You should turn the bar graph sideways.  That way the names of the plants are oriented correctly, not vertically.
+-  Maybe group by East and West.
+-  I would like to know the country totals to really see who the leader is.
+-   he Y and X axis labels are grey and faint.  Hard to see at a glance.
+-   You can remove “The” from the title.
+-   I like the orange gradient.  It gives a heat feeling.  
 
 
 Synthesis: 
