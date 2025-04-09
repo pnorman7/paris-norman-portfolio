@@ -19,15 +19,16 @@ I will walk through the narrative introducing the rise of LLMs like ChatGPT in 2
 Text here...
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
-Text here...
+I will use the llm_comparison_dataset.csv to visualize the significant differences in energy efficiency and cost between AI models. By visualizing energy efficiency ratings alongside price per million tokens and benchmark scores, I'll hope to show that many mid-tier and low cost models achieve 80% or so of flagship capabilities while using substantially less energy and costing much less.  I want to clearly demonstrate the diminishing returns of increasingly powerful models.  This ties into the idea that “bigger is not always better”.
+I will create visualizations exploring the relationship between performance benchmark and resource consumption for specific tasks (ex. Coding, experiments, or simple text editing) allowing users to identify what is the optimal model for their specific use cases. By highlighting "sweet spot" models I will provide concrete evidence that environmentally and financially responsible choices don't require significant performance sacrifices.
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+[
+> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. ](https://www.kaggle.com/datasets/samayashar/large-language-models-comparison-dataset)
 
 | Name | URL | Description |
 |------|-----|-------------|
-|      |     |             |
+|      |    https://www.kaggle.com/datasets/samayashar/large-language-models-comparison-dataset |             |
 |      |     |             |
 |      |     |             |
 
