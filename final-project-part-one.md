@@ -28,17 +28,17 @@ I will create visualizations exploring the relationship between performance benc
 
 | Name | URL | Description |
 |------|-----|-------------|
-|      |    https://www.kaggle.com/datasets/samayashar/large-language-models-comparison-dataset |             |
+|  Large Language Models Comparison Dataset    |    https://www.kaggle.com/datasets/samayashar/large-language-models-comparison-dataset | Kaggle Dataset that compares several large language models from leading technology companies. The data includes benchmark scores, quality, energy efficiency and different costs.      |
 |      |     |             |
 |      |     |             |
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
 
-Text here...
+I plan on completing the assignment using Shorthand story telling. I will include Tableau vidualizations embedded into Shorthand.  
 
 ## References
-_List any references you used here._
+[_List any references you used here._](https://www.kaggle.com/datasets/samayashar/large-language-models-comparison-dataset)
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+
+I used AI to proofread my outline above.  
