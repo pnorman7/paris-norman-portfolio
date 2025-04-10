@@ -1,8 +1,5 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
-
 # Outline
 
 In the past five years we have witnessed unprecedented growth in Artificial Intelligence (AI) and Large Language Models (LLMs). Since ChatGPT's emergence, AI has transformed from a specialized field into a globally accessible technology. This has driven massive demand but also revealed significant environmental and financial costs.
@@ -14,17 +11,21 @@ In my project I would like to help tell a story for how a user can responsibly a
 I will walk through the narrative introducing the rise of LLMs like ChatGPT in 2021 and begin with an excited story arc explaining how they can be incredibly helpful in personal and professional life in 2025.  I will then start to tell a more detailed story of how they are developed which begins to touch on the negatives of AI models such as environmental impact and cost to train them.  I will continue into a more sobering story explaining that only a few companies control the entire market and regulation is needed. I will begin to change the tone to a more hopeful one by explaining that some models are more ethically developed and used than others.  I will tell the story that each person can influence how these companies do business through the power they wield as consumers to the model they choose.  I will finish by telling the user to take a quiz that will point them to the model that most closely aligns with their views. I hope through the duration of my story audience members understand some of the unseen effects AI has.  I then want them to see through clear comparisons that they have a menu of options, and of that menu some models are powerful, more ethically responsible, and sustainable.  It is my hope that during the quiz audience members would be persuaded to use these AI models.         
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-Text here...
+<img width="653" alt="Screenshot 2025-04-09 at 7 59 13 PM" src="https://github.com/user-attachments/assets/0734e3d7-9dee-430d-a6d0-8ff41e78ca14" />
+
+<img width="653" alt="Screenshot 2025-04-09 at 7 59 32 PM" src="https://github.com/user-attachments/assets/e3b93bfe-a287-4ff0-b6dd-b0ed48ba43eb" />
+
+<img width="653" alt="Screenshot 2025-04-09 at 7 59 50 PM" src="https://github.com/user-attachments/assets/30467b4a-3156-432b-84f1-a9a050df4b21" />
+
+<img width="653" alt="Screenshot 2025-04-09 at 8 00 07 PM" src="https://github.com/user-attachments/assets/4248b83b-357d-448a-8663-7f2ff28d4c4c" />
 
 # The data
 
 I will use the llm_comparison_dataset.csv to visualize the significant differences in energy efficiency and cost between AI models. By visualizing energy efficiency ratings alongside price per million tokens and benchmark scores, I'll hope to show that many mid-tier and low cost models achieve 80% or so of flagship capabilities while using substantially less energy and costing much less.  I want to clearly demonstrate the diminishing returns of increasingly powerful models.  This ties into the idea that “bigger is not always better”.
 I will create visualizations exploring the relationship between performance benchmark and resource consumption for specific tasks (ex. Coding, experiments, or simple text editing) allowing users to identify what is the optimal model for their specific use cases. By highlighting "sweet spot" models I will provide concrete evidence that environmentally and financially responsible choices don't require significant performance sacrifices.
 
-[
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. ](https://www.kaggle.com/datasets/samayashar/large-language-models-comparison-dataset)
+(https://www.kaggle.com/datasets/samayashar/large-language-models-comparison-dataset)
 
 | Name | URL | Description |
 |------|-----|-------------|
