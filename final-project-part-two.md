@@ -1,14 +1,37 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
-Text here!
+Setup: Let me show you some reality
+•	There are now hundreds of LLMs that have been released since the emergence of ChatGPT in 2022
+<img width="791" alt="Screenshot 2025-04-16 at 5 48 18 PM" src="https://github.com/user-attachments/assets/9a3ff428-e802-4e04-a05d-81bf7b62466c" />
+
+•	There is weekly news of record breaking benchmarks and new offerings (show 2024-2025)
+•	We will take a look at only the most recent cutting edge models 
+•	Four of the top companies (Meta, Google, OpenAI, Anthropic) each have dozens of available model that can specialize in certain tasks
+<img width="840" alt="Screenshot 2025-04-16 at 5 48 52 PM" src="https://github.com/user-attachments/assets/302c338a-a59a-4d87-ab58-3eabf54b7619" />
+•	There are other AI companies too, but these are the most common in the US 
+
+Conflict: Here is something that happened to that reality
+•	With so many options it can be dizzying to figure out which one to use
+•	It is hard to identify which best fits my use case (coding, writing, etc)
+•	Some models are very energy intensive too, so I want to choose ethically
+
+Resolution: Here is the new reality after the conflict 
+•	By segmenting the models by task type you can more clearly narrow down your choice to one model for that task
+<img width="812" alt="Screenshot 2025-04-16 at 5 51 13 PM" src="https://github.com/user-attachments/assets/b81888dc-27e5-4e85-905c-fed3b7628d83" />
+•	If you want a free open source option you should go with Meta
+•	If you want to just use one model, you can choose Gemini Pro 2.5 which does it all
+<img width="812" alt="Screenshot 2025-04-16 at 5 52 11 PM" src="https://github.com/user-attachments/assets/f1248d1d-4303-4982-8b2c-f66bd486b4f3" />
+
+•	If you want to learn more about the best prompting for your model you can click here to watch a free video for tips and tricks 
+https://www.youtube.com/watch?v=o64Mv-ArFDI
+
 
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+College and Graduate students who regularly use AI to help with school work and personal projects.  These users may only have a surface level understanding of how Large Language Models (LLMs) work, but do not have the time to learn more about each one.  The audience member may have a background in Computer Science or Public Policy so I will create a narrative that allows each stakeholder to choose the LLM that ethically aligns best with their workflow, both for performance and sustainability.  
 
 Text here!
 
