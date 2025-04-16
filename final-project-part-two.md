@@ -36,23 +36,18 @@ College and Graduate students who regularly use AI to help with school work and 
 Text here!
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
 
-Text here!
+I want to know if my original idea about tying model choice to high costs and diminishing performance return is interesting or if I should pivot.  I may want to create a story about assisting students in choosing a model in the sea of options.
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+|   Does the narrative about cost matter to students?    |       Do you care if companies/investors are wasting their money on LLM development, or do you believe that does not impact your own life?           |
+|   Building trust   |          Does my narrative fairly represent both the potential and the limitations of the major LLM providers, or do you feel any bias toward certain companies?        |
+|    Relevant informaation  |  Would you just go with the best benchmarked model or would you want something more tailored to your needs?                |
 
-
-Text here!
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
@@ -76,16 +71,12 @@ Text here!
 
 > ...include any final thoughts you have here. 
 
-Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
 
 ## References
-_List any references you used here._
+
+](https://www.kaggle.com/datasets/samayashar/large-language-models-comparison-dataset/data)
+
+https://www.kaggle.com/datasets/neisse/livebench-llm-benchmark
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
-
+I did not use AI in this section of the project.
