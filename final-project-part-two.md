@@ -77,11 +77,11 @@ Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| Remove cost narrative | Find a new data set to get more model performance data |
+|  Remove sustainability narrative            |     It will take too long to discuss the environment harms of AI              |
+|  Do not show differing benchmarks       |    Use one benchmark standard like LM Arena to remain consistent                     |
+|  Focus on a few models and companies          |    less overwhelming experience and less names to remember for the audience              |
+|  Need a better call to action          |    Once the user chooses a model with my recommendation they should learn how to use it with tips and tricks                     |
 
 
 ## References
