@@ -66,8 +66,8 @@ I want to know if my original idea about tying model choice to high costs and di
 | Questions               | Interview 1 Woman, 30’s, Teacher | Interview 2 Woman, 20’s, MEAM student | Interview 3 Man, 60’s, My boss|
 |-------------------------|--------------------------------|-------------|-------------|
 | Do you care if companies/investors are wasting their money on LLM development, or do you believe that does not impact your own life?  | Who is paying for these? Me on my phone or a big company using it?     |   the storyline about investors wasting money isn’t compelling for students. Most people won’t care that they waste money.  |  If you gave this at work we would just want to know more about the API costs     |
-| Does my narrative fairly represent both the potential and the limitations of the major LLM providers, or do you feel any bias toward certain companies?          |    I only know Chat GPT and don’t know how to find these other ones            |    Just focus on a few models per company    |    Why only the 5 companies? What about others I’ve heard of?   | Would you just go with the best benchmarked model or would you want something more tailored to your needs?
-|   I’ll take that survey because I only need AI for brainstorming     |  It’s good that you have CS focus and general purpose AI suggestions     |     I’m surprised the open source models are almost as good as the paid        |             |
+| Does my narrative fairly represent both the potential and the limitations of the major LLM providers, or do you feel any bias toward certain companies?          |    I only know Chat GPT and don’t know how to find these other ones            |    Just focus on a few models per company    |    Why only the 5 companies? What about others I’ve heard of? |  
+| Would you just go with the best benchmarked model or would you want something more tailored to your needs?|      | I’ll take that survey because I only need AI for brainstorming |     It’s good that you have CS focus and general purpose AI suggestions    |    I’m surprised the open source models are almost as good as the paid             |
 
 
 # Identified changes for Part III
@@ -82,8 +82,6 @@ Text here!
 |                                          |                                                                                 |
 |                                          |                                                                                 |
 | ...add more rows as necessary            |                                                                                 |
-
-> ...include any final thoughts you have here. 
 
 
 ## References
