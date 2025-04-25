@@ -3,6 +3,7 @@
 # The final data story
 [> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. ](https://carnegiemellon.shorthandstories.com/aimodelselector/index.html)
 
+https://carnegiemellon.shorthandstories.com/aimodelselector/index.html
 
 # Changes made since Part II
 
